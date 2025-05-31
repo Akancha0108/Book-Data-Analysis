@@ -51,7 +51,7 @@ Below are some key visualizations generated from the Kindle book dataset:
 - **Apache Spark (PySpark):** Distributed data processing framework for big data analytics.  
 - **Python:** Programming language for data manipulation and analysis.  
 - **Jupyter Notebook:** Interactive environment to write and run analysis code.  
-- **Pandas & Matplotlib / Seaborn (optional):** For additional data visualization.
+- **Pandas & Matplotlib / Seaborn:** For additional data visualization.
 
 ---
 ## Dataset Source
