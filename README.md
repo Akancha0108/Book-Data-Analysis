@@ -10,7 +10,7 @@ By leveraging the power of distributed computing with PySpark, this analysis han
 ##  Key Features & Insights
 
 1. **Comprehensive Category Breakdown**  
-   Identify the most popular and highest-grossing book per categoriy and top categories to understand reader preferences and market trends.
+   Identify the most popular and highest-grossing book per category and top categories to understand reader preferences and market trends.
 
 2. **Price vs. Sales Dynamics**  
    Explore how pricing strategies should be made by analyzing the top expensive books and their sales for maximizing sales.
