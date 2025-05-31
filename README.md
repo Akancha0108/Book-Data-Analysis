@@ -10,19 +10,19 @@ By leveraging the power of distributed computing with PySpark, this analysis han
 ##  Key Features & Insights
 
 1. **Comprehensive Category Breakdown**  
-   Identify the most popular and highest-grossing book categories to understand reader preferences and market trends.
+   Identify the most popular and highest-grossing book per categoriy and top categories to understand reader preferences and market trends.
 
 2. **Price vs. Sales Dynamics**  
-   Explore how pricing strategies influence the number of orders, revealing optimal price points for maximizing sales.
+   Explore how pricing strategies should be made by analyzing the top expensive books and their sales for maximizing sales.
 
 3. **Author Impact Analysis**  
-   Spotlight top-performing authors by examining their publishing volume and sales success, highlighting influential figures in the Kindle marketplace.
+   Spotlight top-performing authors by examining their books.
 
 4. **Bestseller Identification**  
-   Pinpoint bestselling books and analyze their key attributes to uncover what factors contribute to a book’s market success.
+   Pinpoint bestselling books and using it to know about trends .
 
 5. **Author Productivity Metrics**  
-   Assess the distribution of books per author and how prolific output correlates with overall sales achievements.
+   Assess the distribution of books per author and their price-point.
 
 ---
 
