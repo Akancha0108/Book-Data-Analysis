@@ -23,10 +23,28 @@ By leveraging the power of distributed computing with PySpark, this analysis han
 
 5. **Author Productivity Metrics**  
    Assess the distribution of books per author and their price-point.
+---
+##  Visualizations
 
-  
+Below are some key visualizations generated from the Kindle book dataset:
+
+### 1. Book Count per Category  
+![Book Count per Category](images/book_count_category.png)
 
 ---
+
+### 2. Price Distribution per Category  
+![Price Distribution per Category](images/price_distribution_per_category.png)
+
+---
+
+### 3. Price vs Average Ratings for Top Categories  
+![Price vs Ratings for Top Categories](images/price_vs_ratings_for_top_categories.png)
+
+---
+
+### 4. Price Distribution for Best-Selling books  
+![Bestseller Price Distribution](images/bestseller_price_distribution.png)
 
 ##  Technologies Used
 
