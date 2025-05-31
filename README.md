@@ -24,8 +24,7 @@ By leveraging the power of distributed computing with PySpark, this analysis han
 5. **Author Productivity Metrics**  
    Assess the distribution of books per author and their price-point.
 
-   ![Book Count Per Category](![image](https://github.com/user-attachments/assets/cc905540-1eaa-45a4-89e1-3c703de068f2)
-)
+  
 
 ---
 
