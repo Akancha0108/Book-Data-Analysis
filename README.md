@@ -1,4 +1,4 @@
-# Kindle Book Data Analysis with PySpark
+# Kindle Book Data Analysis with PySpark 
 
 ##  Project Overview  
 This project provides a comprehensive analysis of the Kindle e-book dataset using Apache Spark's PySpark framework.  
